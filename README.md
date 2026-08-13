@@ -8,6 +8,11 @@ The analysis follows a structured relative valuation approach by identifying an 
 
 The objective is to evaluate whether the target company appears **overvalued or undervalued relative to its comparable peer group**.
 
+## Project File 
+
+[ View Full Project Report](<Indian Pharmaceuticals – Comparable Company Valuation.xlxs>) 
+
+The Excel model contains the peer universe, financial data, trading multiples, peer statistics, implied valuation calculations and overvaluation/undervaluation assessment.
 ---
 
 ## Valuation Universe
