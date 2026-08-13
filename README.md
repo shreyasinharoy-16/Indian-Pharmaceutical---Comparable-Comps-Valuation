@@ -10,7 +10,7 @@ The objective is to evaluate whether the target company appears **overvalued or 
 
 ## Project File 
 
-[Download Excel Model](<Indian-Pharmaceutical-Comparable-Comps-Valuation.xlsx>)
+[Download Excel Model](<Comparable Company Valuation -  Indian Pharmaceuticals.xlsx>)
 
 The Excel model contains the peer universe, financial data, trading multiples, peer statistics, implied valuation calculations and overvaluation/undervaluation assessment.
 ---
